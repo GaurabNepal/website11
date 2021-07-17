@@ -1,0 +1,39 @@
+.testimonial {
+    background: whitesmoke;
+    overflow: hidden;
+}
+
+.testimonial .title {
+    text-align: center;
+    color: #ffd43b;
+}
+
+.testimonial-slider {
+    margin: 2rem 0;
+}
+
+.testimonial-item img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.testimonial-item {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.testimonial-item p {
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 1.7;
+    width: 80%;
+    margin: 1.5rem auto 1rem;
+    color: var(--lightGrey);
+    opacity: 0.9;
+}
+
+.testimonial-item h3 {
+    color: var(--grey);
+}
